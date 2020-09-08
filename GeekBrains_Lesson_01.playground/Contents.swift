@@ -5,3 +5,4 @@ print(str)
 
 let num = 1
 
+// comment
